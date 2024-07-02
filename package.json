@@ -1,0 +1,15 @@
+{
+    "name": "你的项目名",
+    "version": "1.0.0",
+    "description": "你的项目描述",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "123",
+        "url": "https://github.com/123"
+    },
+    "license": "ISC"
+}
